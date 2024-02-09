@@ -9,6 +9,3 @@ I am currently on the hunt for a summer internship (2024) where I can apply my s
   <br/>
   <b>Twitter</b> [@divyanshu1709](https://twitter.com/divyanshu1709)
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshusharma1709&show_icons=true&locale=en&layout=compact" alt="divyanshusharma1709" /></p>
