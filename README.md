@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Divyanshu!</h1>
+I am a graduate student pursing a Master's degree in Computer Science at New York University's Courant Institute of Mathematical Science. I am super passionate computer vision and technology that helps people. I love software development and problem-solving. I'm well versed with coding fundamentals, data structures, and algorithms.
+<br/><br/>
+I am currently on the hunt for a summer internship (2024) where I can apply my skills and also learn a lot more!
 
-<!--
-**divyanshusharma1709/divyanshusharma1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <b>LinkedIn:</b> [divyanshusharma1709](https://www.linkedin.com/in/divyanshusharma17/)
+  <br/>
+  <b>Twitter</b> [@divyanshu1709](https://twitter.com/divyanshu1709)
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshusharma1709&show_icons=true&locale=en&layout=compact" alt="divyanshusharma1709" /></p>
