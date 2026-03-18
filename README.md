@@ -8,5 +8,7 @@ I am currently on the hunt for SWE roles where I can apply my skills and also le
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <b>LinkedIn:</b> [divyanshusharma17](https://www.linkedin.com/in/divyanshusharma17/)
+  <b>Website:</b> https://divyanshusharma.com/  (<-- Checkout my projects here!)
+  <br/>
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/divyanshusharma17/">divyanshusharma17</a>
 </p>
